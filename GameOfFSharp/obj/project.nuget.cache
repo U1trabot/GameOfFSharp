@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A/LbnlWHe7b1I3L3s8XJqTa+iNc5z9l5gmRyESqkcKhVCVxvYhd9bKLWPrgRfeyZoXR7eA8bQsCZnuTpKDxtxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ultra\\RiderProjects\\GameOfFSharp\\GameOfFSharp\\GameOfFSharp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ultra\\.nuget\\packages\\fsharp.core\\6.0.5\\fsharp.core.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
